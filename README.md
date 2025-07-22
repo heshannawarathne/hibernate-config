@@ -1,4 +1,4 @@
-Hibernate Configuration Project 🚀
+Hibernate Configuration File 🚀
 
 This project contains a sample hibernate.cfg.xml file configured to connect a Java application using Hibernate 4.x to a MySQL 8+ database.
 
